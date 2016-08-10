@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">AnimationDemo</string>
+    <string name="alpha">Alpha透明度动画</string>
+    <string name="scale">Scale拉伸动画</string>
+    <string name="translate">Translate转移动画</string>
+    <string name="rotate">Rotate旋转动画</string>
+</resources>
